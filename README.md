@@ -1,5 +1,5 @@
 # Neural-Networks And Multi-Class Classification
-# Machine Learning Coursera Course by Andrew Ng
+# Machine Learning Stanford Course by Andrew Ng (COURSERA)
 Contents-
 1. Multi-Class Classification 
 2. Vectorizing logistic regression
